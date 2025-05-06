@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    color: #fff;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #1e1e2f;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.auth-buttons button {
+    margin-left: 10px;
+    padding: 10px 15px;
+    background: #ff4081;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: #151538;
+}
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.cta-button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background: #ff4081;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #1e1e2f;
+}
