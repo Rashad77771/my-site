@@ -6,4 +6,4 @@ Disallow: /private/
 
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://1win-oyna.lol/sitemap.xml
