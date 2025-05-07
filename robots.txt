@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Allow: /
+
+Sitemap: https://1win-oyna.lol/sitemap.xml
